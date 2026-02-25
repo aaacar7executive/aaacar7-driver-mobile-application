@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "aaa7-payment",
-    "slug": "aaa7-payment",
+    "name": ".",
+    "slug": ".",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "aaa7-payment",
+    "scheme": ".",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
